@@ -22,5 +22,6 @@ public class WordToNumber {
 		}
 
 		System.out.println("Number in words: " + result);
+		System.out.println("This is a test console.");
 	}
 }
