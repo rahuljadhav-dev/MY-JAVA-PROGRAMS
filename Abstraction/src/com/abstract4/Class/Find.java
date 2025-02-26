@@ -5,6 +5,7 @@ public class Find {
 		Test2 ans=new Test2();
 		ans.add(25, 75);
 		ans.show();
+		//ans
 		ans.display();
 		
 	}
